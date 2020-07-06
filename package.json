@@ -1,0 +1,15 @@
+{
+  "name": "in3-demo",
+  "version": "1.0.0",
+  "description": "Blockchains programming task",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "author": "Peter Holzer <message@peterholzer.at>",
+  "license": "ISC",
+  "dependencies": {
+    "in3-wasm": "^2.5.0",
+    "web3": "^1.2.9"
+  }
+}
